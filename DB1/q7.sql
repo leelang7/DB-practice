@@ -3,7 +3,7 @@ CREATE TABLE kickboard(
     member_id       VARCHAR(16)  NOT NULL UNIQUE,
     member_name     VARCHAR(16)  NOT NULL,
     member_birthday DATE,
-    id              VARCHAR(16)  ,
+    id              VARCHAR(16)  PRIMARY KEY,
     brand           VARCHAR(16)  NOT NULL,   
     rental_location VARCHAR(32)  NOT NULL,
     rental_time     TIME, 

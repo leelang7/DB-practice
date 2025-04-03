@@ -14,7 +14,13 @@ CREATE TABLE kickboard(
 );
 
 -- kickboard 테이블에 제약 조건을 추가 및 삭제하세요.
+ALTER TABLE kickboard
+ADD CONSTRAINT member_id UNIQUE (member_id);
 
+ALTER TABLE kickboard
+ALTER price SET DEFAULT 1000;
+
+ALTER TABLE kickboard DROP CONSTRAINT rental_time_check;
 
 -- 제약 조건이 올바르게 설정되었는지 직접 데이터를 넣어보세요.
 -- INSERT INTO kickboard(member_id, member_name, member_birthday, id, brand, rental_location, rental_time, price)
