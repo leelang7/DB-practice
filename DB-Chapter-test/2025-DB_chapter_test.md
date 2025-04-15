@@ -10,7 +10,8 @@
 
 지시사항에 따라 데이터베이스를 알맞게 구성하세요.
 
-![1744681647653](image/2025-DB_chapter_test/1744681647653.png)
+![db1](https://github.com/user-attachments/assets/dc1344e3-f734-43a4-837c-4c34be8c0114)
+
 
 ## 5. 이름 검색하기
 
@@ -24,7 +25,8 @@
 
 지시사항에 따라 데이터베이스를 알맞게 구성하세요.
 
-![image-20250414151901500](C:\Users\302-t\AppData\Roaming\Typora\typora-user-images\image-20250414151901500.png)
+![db2](https://github.com/user-attachments/assets/391c4ff0-5a70-4018-9af8-a2358355d0d6)
+
 
 ## 6. 수학 점수 구하기
 
@@ -38,7 +40,8 @@
 
 지시사항에 따라 데이터베이스를 알맞게 구성하세요.
 
-![image-20250414151931090](C:\Users\302-t\AppData\Roaming\Typora\typora-user-images\image-20250414151931090.png)
+![db3](https://github.com/user-attachments/assets/35ce2c1f-93be-4188-a72f-c859ae5c4744)
+
 
 ## 7. 해외 여행자
 
@@ -55,7 +58,8 @@
 
 지시사항에 따라 데이터베이스를 알맞게 구성하세요.
 
-![image-20250414152001143](C:\Users\302-t\AppData\Roaming\Typora\typora-user-images\image-20250414152001143.png)
+![db4](https://github.com/user-attachments/assets/53e57f01-5a15-4f19-8431-06f7e7e3c093)
+
 
 ## 8. 한국에 온 사람은 누구?
 
@@ -71,7 +75,8 @@
 
 지시사항에 따라 데이터베이스를 알맞게 구성하세요.
 
-![image-20250414152104911](C:\Users\302-t\AppData\Roaming\Typora\typora-user-images\image-20250414152104911.png)
+![db5](https://github.com/user-attachments/assets/1aedbd75-196e-478c-bb9a-f0f9bee3add4)
+
 
 ## 9. 너의 점수는
 
@@ -86,7 +91,8 @@
 
 지시사항에 따라 데이터베이스를 알맞게 구성하세요.
 
-![image-20250414152140882](C:\Users\302-t\AppData\Roaming\Typora\typora-user-images\image-20250414152140882.png)
+![db6](https://github.com/user-attachments/assets/fc0de3fd-beeb-419b-b628-607fd486fc27)
+
 
 ## 10. 카드사별 수수료 정산
 
@@ -126,4 +132,4 @@
 | from_date       | datetime     | 시작일     |
 | to_date         | datetime     | 종료일     |
 
-![image-20250414152234470](C:\Users\302-t\AppData\Roaming\Typora\typora-user-images\image-20250414152234470.png)
+![db7](https://github.com/user-attachments/assets/625820bd-9e77-40c2-af10-abc1c8155ee6)
