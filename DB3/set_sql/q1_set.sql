@@ -1,7 +1,7 @@
 create table if not exists book(
     id varchar(32) not null,
     title varchar(64) not null,
-    author varchar(16),
+    author varchar(64),
     publisher varchar(32),
     date_received date,
     primary key (id)
